@@ -24,6 +24,6 @@
       }
     }
   },
-  "tags": [],
+  "tags": ["scope:frontend-client"],
   "implicitDependencies": ["frontend-client"]
 }
